@@ -1,5 +1,7 @@
 # NetHeal
 
+**Deployed Link** : https://netheal-sim.streamlit.app
+
 **Fault-Tolerant Self-Healing Network Simulator with Adaptive Routing and Automatic Route Recovery**
 
 A discrete-event network simulator (SimPy) that models packet transmission, link/node failures, Dijkstra-based
