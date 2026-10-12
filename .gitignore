@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+exports/*.csv
+.DS_Store
+docs/viva_questions.md
+docs/viva_cheatsheet.md
+docs/resume_description.md

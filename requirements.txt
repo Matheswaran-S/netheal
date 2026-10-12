@@ -1,0 +1,7 @@
+simpy>=4.1
+networkx>=3.2
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.1
+numpy>=1.26
+pytest>=8.0
