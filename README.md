@@ -134,9 +134,15 @@ utils/helpers.py  tests/  docs/  exports/
 ## Screenshots
    ![35 Test cases passed](docs/images/35-tests-netheal.png)
    35 Test cases passed
+   
    ![Healthy network](docs/images/healthy.png)
+   Healthy network
+   
    ![degraded (delivery rate less than 90%)](docs/images/degraded.png)
+   degraded (delivery rate less than 90%)
+   
    ![Partitioned with failed link](docs/images/partitioned.png)
+   Partitioned with failed link
 
 ## Limitations
 - Simulation only; no queueing, congestion, TCP or real packet capture.
